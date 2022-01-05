@@ -3,12 +3,12 @@ entries:
   uow-cca-groupt-hc:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-12-28T13:34:35.183671+05:30"
+    created: "2022-01-05T22:51:56.663973+05:30"
     description: UoW - CCA - Assignment 1 - Kubernetes with Helm
-    digest: 203328189bcf7a4ff476b39d5deed382e68b8dd1e223427cd246efe130a30cea
+    digest: f4fb6de09478c7308a1afcb37d374982ab10f30a7a132d3ba1c5bc6cc81e0bb9
     name: uow-cca-groupt-hc
     type: application
     urls:
-    - https://pasanbhanu.github.io/uow-cca-groupt-hc/uow-cca-groupt-hc-0.0.1.tgz
+    - https://mattiaperi.github.io/helm-chart/uow-cca-groupt-hc-0.0.1.tgz
     version: 0.0.1
-generated: "2021-12-28T13:34:35.183221+05:30"
+generated: "2022-01-05T22:51:56.663283+05:30"
